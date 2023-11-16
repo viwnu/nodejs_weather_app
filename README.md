@@ -5,17 +5,17 @@
 
 **to install dependencies:**
 ```
-    npm i
+npm i
 ```
 **To use it like command line package:**
 invoke
-`{
-    npm link
-}`
+```
+npm link
+```
 then you can use it in your cli like this:
-`{
-    weather // basic usage
-    weather -h // to show app help
-}`
+```
+weather // basic usage
+weather -h // to show app help
+```
 
 
