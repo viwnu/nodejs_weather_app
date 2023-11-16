@@ -4,9 +4,9 @@
 **it use TypeScript(ts-node), axios, for fetching and "weatherstack" API for get current weather.**
 
 **to install dependencies:**
-`{
+```
     npm i
-}`
+```
 **To use it like command line package:**
 invoke
 `{
