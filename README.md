@@ -7,7 +7,8 @@
 ```
 npm i
 ```
-**To use it like command line package:**\n
+**To use it like command line package:**
+
 invoke
 ```
 npm link
