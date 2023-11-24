@@ -28,4 +28,4 @@ yarn-debug.log*
 yarn-error.log*
 
 #app config
-weather_app_config.json
+/weather_app_config.json
